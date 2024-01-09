@@ -36,7 +36,7 @@ Este endpoint procesa un JSON con datos de eventos de correo electrónico y devu
 
 ## URL del Endpoint
 
-[JSON]https://github.com/aws/aws-lambda-go/blob/main/events/testdata/ses-sns-event.json
+[JSON](https://github.com/aws/aws-lambda-go/blob/main/events/testdata/ses-sns-event.json)
 POST /email/process
 
 
