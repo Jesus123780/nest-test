@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) 
+[Nest](https://github.com/Jesus123780/nest-test) 
 - El proyecto comienza convirtiendo un JSON predefinido en una clase específica. Esta clase representa una estructura de datos Y lógica para manejar la información del JSON 
 
 - Crea un controlador con un endpoint específico (POST /email/process) que recibe el JSON original.
