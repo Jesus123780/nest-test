@@ -25,7 +25,10 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) 
-El proyecto comienza convirtiendo un JSON predefinido en una clase específica. Esta clase probablemente representará una estructura de datos coherente y lógica para manejar la información del JSON.
+- El proyecto comienza convirtiendo un JSON predefinido en una clase específica. Esta clase representa una estructura de datos Y lógica para manejar la información del JSON 
+
+- Crea un controlador con un endpoint específico (POST /email/process) que recibe el JSON original.
+Implementa la lógica en este endpoint para procesar el JSON recibido utilizando las herramientas de mapeo, mapeando los datos a la estructura de la clase definida previamente.
 
 # Uso del Endpoint `/email/process`
 
