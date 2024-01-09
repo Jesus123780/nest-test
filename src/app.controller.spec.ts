@@ -15,8 +15,8 @@ describe('AppController', () => {
   });
 
   describe('root', () => {
-    it('should return "Hello World!"', () => {
-      expect(appController.getHello()).toBe('Hello World!');
+    it('should return "Jesus Juvinao Backend Nestjs +57 3014548087!"', () => {
+      expect(appController.getHello()).toBe('Jesus Juvinao Backend Nestjs +57 3014548087');
     });
   });
 });
