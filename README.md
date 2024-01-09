@@ -24,7 +24,18 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) 
+El proyecto comienza convirtiendo un JSON predefinido en una clase específica. Esta clase probablemente representará una estructura de datos coherente y lógica para manejar la información del JSON.
+
+# Uso del Endpoint `/email/process`
+
+Este endpoint procesa un JSON con datos de eventos de correo electrónico y devuelve la estructura `EmailData` como respuesta.
+
+## URL del Endpoint
+
+```https://github.com/aws/aws-lambda-go/blob/main/events/testdata/ses-sns-event.json
+POST /email/process
+
 
 ## Installation
 
